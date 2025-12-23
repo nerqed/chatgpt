@@ -1,0 +1,1 @@
+"""OnlySq Telegram bot package."""
